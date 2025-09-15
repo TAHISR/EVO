@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/22334681/README.1.md)
+
 # 🚀 EVO Programming Language
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/evo-lang/evo-programming-language)
@@ -384,10 +384,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [Wiki](https://github.com/evo-lang/evo-programming-language/wiki)
-- **Issues**: [GitHub Issues](https://github.com/evo-lang/evo-programming-language/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/evo-lang/evo-programming-language/discussions)
-- **Email**: support@evo-lang.org
 
 
 **Made with ❤️ by TAHISR And For The EVO And Developers Community **
