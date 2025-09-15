@@ -1,4 +1,4 @@
-
+[README (1).md](https://github.com/user-attachments/files/22334681/README.1.md)
 # 🚀 EVO Programming Language
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/evo-lang/evo-programming-language)
@@ -389,16 +389,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discussions**: [GitHub Discussions](https://github.com/evo-lang/evo-programming-language/discussions)
 - **Email**: support@evo-lang.org
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=evo-lang/evo-programming-language&type=Date)](https://star-history.com/#evo-lang/evo-programming-language&Date)
+**Made with ❤️ by TAHISR And For The EVO And Developers Community **
 
----
+## 📰 Are You A Vibe Coder
+- Dont Worry Because We Made A Package That You give Cursor And Other Ai's it will help them know what coding languge you are using its called AI-EVO-CODING-GUIDE.md you could download it easily from the source codes
 
-<div align="center">
 
-**Made with ❤️ by the EVO Community**
+## 🎢 Want To Know How You Could Learn ?
 
-[Website](https://evo-lang.org) • [Documentation](https://docs.evo-lang.org) • [Examples](https://examples.evo-lang.org) • [Community](https://community.evo-lang.org)
-
-</div>
+- soon we would post you give full guides how to code this coding languge so stay tuned
